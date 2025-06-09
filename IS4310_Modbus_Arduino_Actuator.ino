@@ -1,8 +1,8 @@
 /* 
  * Program Title:
- * IS4310_Modbus_Arduino_Actuator
+ * IS4310 Modbus Actuator with Arduino
  *
- * Internal reference for this example: ISFW1036
+ * Internal reference for this example: ISXMPL4310ex7
  *
  * Description:
  * This example demonstrates how to use the IS4310 Modbus RTU Slave chip with the 
