@@ -1,4 +1,4 @@
-# IS4310_Modbus_Arduino_Actuator (ISFW1036)
+# IS4310 Modbus Actuator with Arduino
 
 ## Description:
 This example demonstrates how to use the IS4310 Modbus RTU Slave chip with the Arduino platform.
