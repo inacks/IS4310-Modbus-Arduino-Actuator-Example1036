@@ -17,6 +17,6 @@ You can write to the Holding Registers from your PC using a Modbus master client
 - Set the "I2C Speed Selector" jumper to **100 kHz**.
 - Set the "I2C Pull-up Voltage" according to your microcontroller's logic level. If unsure, use **3.3 V**.
 
-For more information, visit the [product page](https://www.inacks.com/is4310).
+Check the product page at [www.inacks.com/is4310](https://www.inacks.com/is4310).
 
-www.inacks.com
+ℹ️ For more information: [www.inacks.com](https://www.inacks.com)
